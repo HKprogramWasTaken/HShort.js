@@ -1,0 +1,5 @@
+HShort is a inspiration by jQuery
+
+Important note: This is a new work in progress library, Which means not all elements work properly. 
+
+HShort.js Is a javascript library used to help for New programmers in javascript. This shortens some functions such as replacing url, Clearing browser, etc...
